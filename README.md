@@ -3,8 +3,8 @@
 
 <pre>
 Commit 1
-<pre>
+</pre>
 
 <pre>
 Commit 2
-<pre>
+</pre>
