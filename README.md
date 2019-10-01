@@ -12,3 +12,7 @@ Commit 2
 <pre>
 Changes from branch-1
 </pre>
+
+<pre>
+ Commit on branch-2
+</pre>
