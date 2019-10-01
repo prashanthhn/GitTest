@@ -8,3 +8,7 @@ Commit 1
 <pre>
 Commit 2
 </pre>
+
+<pre>
+Changes from branch-1
+</pre>
